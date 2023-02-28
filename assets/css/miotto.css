@@ -1,4 +1,17 @@
 form{
     display: flex;
     flex-direction: column;
+    margin: auto;
+    width: 50%;
 }
+
+input{
+    
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+#enviar_cor:hover{
+    background-color: rgb(167, 233, 137);
+}
+

@@ -1,4 +1,13 @@
 form {
     display: flex;
     flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+input{
+    margin-bottom: 30px;
+    border: 2px solid yellowgreen;
+}
+#bottom:hover{
+    background-color: blueviolet;
 }
