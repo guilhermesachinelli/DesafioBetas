@@ -3,7 +3,6 @@ form{
     flex-direction: column;
     margin: auto;
     width: 50%;
-    
 }
 
 input{
@@ -18,6 +17,6 @@ p{
 }
 
 #enviar_cor:hover{
-    background-color: blueviolet;
+    background-color: rgb(167, 233, 137);
 }
 
