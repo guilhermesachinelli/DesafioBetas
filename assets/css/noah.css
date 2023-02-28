@@ -2,3 +2,10 @@ form {
     display: flex;
     flex-direction: column;
 }
+input {
+    width: 50%;
+    height: 50%;
+}
+p {
+    text-align: center;
+}
