@@ -5,7 +5,14 @@ form {
 input {
     width: 50%;
     height: 50%;
+    margin-bottom: 30px;
 }
-p {
+.p1 {
     text-align: center;
+}
+div {
+    margin-top: 30px;
+}
+#input_enviar:hover {
+    background-color: blueviolet;
 }
