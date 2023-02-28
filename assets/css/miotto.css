@@ -1,4 +1,22 @@
 form{
     display: flex;
     flex-direction: column;
+    margin: auto;
+    width: 50%;
 }
+
+input{
+    width: 50%;
+    height: 50%;
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+
+p{
+    text-align: center;
+}
+
+#enviar_cor:hover{
+    background-color: rgb(167, 233, 137);
+}
+

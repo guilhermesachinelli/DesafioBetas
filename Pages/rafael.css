@@ -1,0 +1,14 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    color: rgb(0, 0, 0);
+    background-color: antiquewhite;
+    border-color: black;
+    width: 50%;
+    right: 50%;
+    justify-content: center;
+    padding: 30px;
+}
