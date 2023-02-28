@@ -12,10 +12,6 @@ input{
     border-radius: 5px;
 }
 
-p{
-    text-align: center;
-}
-
 #enviar_cor:hover{
     background-color: rgb(167, 233, 137);
 }
