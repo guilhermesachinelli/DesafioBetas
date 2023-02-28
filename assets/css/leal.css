@@ -1,4 +1,15 @@
 form {
+    text-align: center;
     display: flex;
     flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+input {
+    margin-bottom: 30px;
+    border-radius: 5px;
+}
+#input-enviar:hover {
+    background-color: cadetblue;
+    
 }
